@@ -1,0 +1,53 @@
+<h1> Meu primeiro Formulario</h1>
+
+
+<form action="POST">
+  <label for="">Nome:</label>
+  <input type="text"placeholder="digite aqui seu nome">
+
+
+  <label for="">idade:</label>
+  <input type="number"placeholder="digite aqui sua idade">
+
+
+  <label for="">Email:</label>
+  <input type="email"placeholder="digite aqui seu Email">
+
+
+<label for="">Senha:</label>
+  <input type="password"placeholder="digite aqui sua senha">
+
+
+  <label for="">Data de nascimento:</label>
+<input type="date">
+
+
+  <label for="">Hora preferida do dia:</label>
+<input type="time">
+
+
+  <label for="">Arquivo:</label>
+<input type="file">
+
+
+  <label for="">Cor preferida:</label>
+<input type="color">
+
+
+<label for="">Time favorito:</label>
+<select>
+<option value=""> Gremio</option>
+<option value=""> Internacional</option>
+<option value=""> Flamengo</option>
+<option value=""> Vasco</option>
+<option value=""> Palmeiras</option>
+<option value=""> Corintians</option>
+<option value=""> Bahia</option>
+<option value=""> Santos</option>
+
+
+</select>
+<input type="submit">
+</form>
+
+
